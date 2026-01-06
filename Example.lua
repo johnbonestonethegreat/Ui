@@ -1,4 +1,4 @@
---if getgenv().Library then
+--if getgenv().Library then-
 --	getgenv().Library:Unload()
 --end
 
